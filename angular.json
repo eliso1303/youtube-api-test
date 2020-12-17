@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "youtube-api"
+  "defaultProject": "youtube-api",
+  "cli": {
+    "analytics": false
+  }
 }
